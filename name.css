@@ -1,0 +1,21 @@
+h1{
+  background-color:gray;
+  margin-top: 10.10%;
+  margin-left: 29.75%;
+  height: 100px;
+  width: 100%;
+  
+}
+canvas{
+    position: fixed;
+    top: 20%;
+    left: 30%;
+    z-index: -1;
+}
+.name{
+    font-style: inherit;
+    font-size: 45px;
+    color: red;
+    
+    
+}
